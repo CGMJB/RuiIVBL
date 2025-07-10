@@ -1,5 +1,5 @@
-ID	标题	主场	客场	比赛状态	日期	裁判	上报人	作成日時	作成者	最終更新日時	最終更新者	主队大分	客队大分	主队小分	客队小分	加赛	时间主	时间客
-3	[TEST]C vs [TEST]B	[TEST]C	[TEST]B	已结束	2025年7月5日	to0v0	to0v0	2025年7月5日 21:26	IVBL Connect	2025年7月5日 21:26	IVBL Connect							
-2	[TEST]A vs [TEST]B	[TEST]A	[TEST]B	已结束	2025年7月5日	to0v0	to0v0	2025年7月5日 21:25	IVBL Connect	2025年7月5日 21:25	IVBL Connect							
-6	[TEST]B vs [TEST]B	[TEST]B	[TEST]B	已结束	2025年7月7日	to0v0	to0v0	2025年7月7日 13:43	IVBL Connect	2025年7月7日 13:43	IVBL Connect	0	1	8	18			
-7	[TEST]A vs [TEST]B	[TEST]A	[TEST]B	已结束	2025年7月9日	yinuo	yinuo	2025年7月9日 22:02	IVBL Connect	2025年7月10日 15:40	九阳	0	0	20	20	四抓	234	444
+ID	,标题	,主场,	客场	,比赛状态,	日期,	裁判	,上报人,	作成日時,	作成者,	最終更新日時,	最終更新者,	主队大分,	客队大分,	主队小分	,客队小分,	加赛,	时间主	,时间客
+3	,[TEST]C vs [TEST]B,	[TEST]C	,[TEST]B	,已结束,	2025年7月5日,	to0v0	,to0v0	,2025年7月5日, 21:26,	IVBL, Connect	,2025年7月5日, 21:26	,IVBL Connect							
+2	,[TEST]A vs [TEST]B	,[TEST]A	,[TEST]B	,已结束,	2025年7月5日,	to0v0,	to0v0	,2025年7月5日 ,21:25	,IVBL, Connect,	2025年7月5日 ,21:25	,IVBL Connect							
+6	,[TEST]B vs [TEST]B	,[TEST]B	,[TEST]B	,已结束,	2025年7月7日,	to0v0,	to0v0	,2025年7月7日, 13:43	,IVBL ,Connect,	2025年7月7日 ,13:43	,IVBL Connect	,0	,1	,8,	18			
+7	,[TEST]A vs [TEST]B,	[TEST]A	,[TEST]B	,已结束,	2025年7月9日,	yinuo,	yinuo	,2025年7月9日 ,22:02	,IVBL ,Connect,	2025年7月10日 1,5:40	,九阳,	0	,0,	20,	20,	四抓	,234	,444

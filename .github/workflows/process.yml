@@ -1,0 +1,40 @@
+name: Process CSV Data
+
+on:
+  push:
+    paths:
+      - 'data/input.csv'   # 当输入文件变化时触发
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+      
+    - name: Process CSV data
+      run: python scripts/process_csv.py data/input.csv results/output.xlsx
+      
+    - name: Upload results
+      uses: actions/upload-artifact@v3
+      with:
+        name: processed-data
+        path: results/
+        
+    - name: Commit results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add results/
+        git commit -m "Update processed data" || echo "No changes to commit"
+        git push

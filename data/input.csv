@@ -1,5 +1,4 @@
-ID,标题,主场,客场,比赛状态,日期,裁判,上报人,作成日時,作成者,最終更新日時,最終更新者,主队大分,客队大分,主队小分,客队小分,加赛,时间主,时间客
-3	,[TEST]C vs [TEST]B,	[TEST]C	,[TEST]B	,已结束,	2025年7月5日,	to0v0	,to0v0	,2025年7月5日, 21:26,	IVBL, Connect	,2025年7月5日, 21:26	,IVBL Connect							
-2	,[TEST]A vs [TEST]B	,[TEST]A	,[TEST]B	,已结束,	2025年7月5日,	to0v0,	to0v0	,2025年7月5日 ,21:25	,IVBL, Connect,	2025年7月5日 ,21:25	,IVBL Connect							
-6	,[TEST]B vs [TEST]B	,[TEST]B	,[TEST]B	,已结束,	2025年7月7日,	to0v0,	to0v0	,2025年7月7日, 13:43	,IVBL ,Connect,	2025年7月7日 ,13:43	,IVBL Connect	,0	,1	,8,	18			
-7	,[TEST]A vs [TEST]B,	[TEST]A	,[TEST]B	,已结束,	2025年7月9日,	yinuo,	yinuo	,2025年7月9日 ,22:02	,IVBL ,Connect,	2025年7月10日 1,5:40	,九阳,	0	,0,	20,	20,	四抓	,234	,444
+日期,赛事,队伍A,队伍B,地点,裁判,其他,列,省略,部分,列,M,N,O,P,Q,R,S
+2023-01-01,常规赛,Team Alpha,Team Beta,北京,张三,,,,,,,15,12,8,7,普通,20,18
+2023-01-02,常规赛,Team Gamma,Team Delta,上海,李四,,,,,,,12,12,9,9,四抓,25,30
+2023-01-03,季后赛,Team Epsilon,Team Zeta,广州,王五,,,,,,,18,22,10,10,普通,15,12
